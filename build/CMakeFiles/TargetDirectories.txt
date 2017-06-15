@@ -1,0 +1,3 @@
+/home/skotti/projects/ass/build/CMakeFiles/rebuild_cache.dir
+/home/skotti/projects/ass/build/CMakeFiles/edit_cache.dir
+/home/skotti/projects/ass/build/CMakeFiles/ass.dir
